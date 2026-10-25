@@ -12,8 +12,5 @@ Berfokus menjembatani rekayasa data teknis dan strategi bisnis operasional.<br><
 ![](https://streak-stats.demolab.com/?user=aldinidziaulhaq&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aldinidziaulhaq&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aldinidziaulhaq&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-
-### Random Dev Quote
+### Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
