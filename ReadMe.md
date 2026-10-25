@@ -1,5 +1,5 @@
 # About Me:
-Berfokus menjembatani rekayasa data teknis dan strategi bisnis operasional.<br>Saya mengolah data publik dan teks tak terstruktur menjadi visualisasi interaktif yang mengungkap celah pasar dan inefisiensi kompetitor.<br>​- Teknologi: Python, Google Colab, Streamlit, GitHub.<br>​- Spesialisasi: Data Cleaning, NLP (Analisis Sentimen), Dasbor Intelijen Kompetitor, Analisis Efisiensi Operasional F&B.<br>- ​Kolaborasi: Terbuka untuk diskusi teknis dan permintaan analisis data bisnis
+Berfokus menjembatani rekayasa data teknis dan strategi bisnis operasional.<br><br>Saya mengolah data publik dan teks tak terstruktur menjadi visualisasi interaktif yang mengungkap celah pasar dan inefisiensi kompetitor.<br>​<br>- Teknologi: Python, Google Colab, Streamlit, GitHub.<br>​<br>- Spesialisasi: Data Cleaning, NLP (Analisis Sentimen), Dasbor Intelijen Kompetitor, Analisis Efisiensi Operasional F&B.<br><br>- ​Kolaborasi: Terbuka untuk diskusi teknis dan permintaan analisis data bisnis
 
 
 ## Socials:
